@@ -1,0 +1,14 @@
+# CLion project files
+.idea/
+cmake-build-debug/
+cmake-build-*/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+
+# OS files
+.DS_Store
+Thumbs.db
